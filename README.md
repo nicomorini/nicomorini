@@ -32,7 +32,6 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nicomorini&show_icons=true&theme=radical&hide_border=true&count_private=true&v=1" alt="Nicolò's GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicomorini&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
 </div>
 

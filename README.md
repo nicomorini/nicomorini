@@ -8,7 +8,7 @@
 
 - 🧠 Currently pursuing a **Master's degree in Artificial Intelligence Engineering** at the University of Modena and Reggio Emilia (UNIMORE).
 - 🎓 Hold a **Bachelor's degree in Computer Science and Engineering** from the University of Bologna (UNIBO).
-- 🌱 Currently focusing on Deep Learning, Machine Learning models, and Data Engineering.
+- 🌱 Currently focusing on Deep Learning, Machine Learning models, Data Engineering and MLOps.
 
 <hr>
 

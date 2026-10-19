@@ -27,16 +27,6 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<hr>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicomorini&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
-</div>
-
-<hr>
-
 <h2 align="center">📫 Let's Connect!</h2>
 
 <p align="center">
